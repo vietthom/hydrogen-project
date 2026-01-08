@@ -33,7 +33,6 @@ export const Layout1 = () => {
     </div>
   </div>
 </section>
-
   );
 };
 
