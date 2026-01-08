@@ -4,6 +4,7 @@ import {Image} from '@shopify/hydrogen';
 import {ProductItem} from '~/components/ProductItem';
 import {Layout1} from '~/components/Layout1';
 
+
 /**
  * @type {Route.MetaFunction}
  */
